@@ -1,4 +1,6 @@
-# Project Name: devops-capstone-project
+# Devops Capstone Project
+
+![Build Status](https://github.com/aadilahammad86/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 
 # DevOps Capstone Template
 
