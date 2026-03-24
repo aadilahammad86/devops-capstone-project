@@ -1,4 +1,4 @@
-# Devops Capstone Project
+# Devops Capstone
 
 ![Build Status](https://github.com/aadilahammad86/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 
