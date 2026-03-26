@@ -1,0 +1,11 @@
+Professional Experience Gained
+
+• Agile Development and Scrum: Streamlined project delivery and cross-team alignment by establishing standardized GitHub workflows and writing clear, behavior-driven feature specifications using Gherkin syntax.
+• Application Development using Microservices: Delivered a scalable functional foundation for account management by architecting a core Python REST API supporting high-performance CRUD operations.
+• Developing AI Applications with Python and Flask: Elevated application reliability and client integration experience by engineering centralized middleware that guarantees consistent, standardized error handling responses across all endpoints.
+• Application Security: Safeguarded backend infrastructure against web vulnerabilities and unauthorized cross-origin requests by enforcing strict CORS policies and robust security headers.
+• Containerization with Docker: Eradicated environment-specific deployment failures ("works on my machine" issues) by containerizing the application lifecycle with optimized Docker images.
+• Continuous Integration (CI) using GitHub Actions: Enforced zero-defect code standards and accelerated developer feedback loops by designing automated GitHub Actions CI pipelines integrated with strict Flake8 static analysis and modular test workflows.
+• Continuous Deployment (CD) using Tekton: Achieved unified, zero-touch deployments by engineering a comprehensive Tekton CD pipeline that seamlessly rolls out validated application builds directly to Kubernetes.
+• Container Orchestration with Kubernetes and OpenShift: Achieved robust application scaling, fault tolerance, and resilient networking by orchestrating Dockerized workloads using Kubernetes deployment manifests and OpenShift’s enterprise-grade capabilities.
+• Monitoring, Observability & Test Driven Development: Increased deployment confidence and team transparency by implementing rigorous automated test coverage tracking and integrating real-time CI/CD status badges.
